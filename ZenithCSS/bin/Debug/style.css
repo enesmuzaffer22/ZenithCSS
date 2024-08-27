@@ -1,0 +1,27 @@
+a{
+   text-decoration: none;
+   padding: 14px 20px 14px 20px;
+   font-family: "sans-serif", sans-serif;
+   font-size: 20px;
+   border-top: 2px solid rgb(255, 255, 255);
+   border-right: 2px solid rgb(255, 255, 255);
+   border-bottom: 2px solid rgb(255, 255, 255);
+   border-left: 2px solid rgb(255, 255, 255);
+   border-radius: 0px 0px 0px 0px;
+   background-color: transparent;
+   color: white;
+}
+
+a:hover{
+   background-color: white;
+   color: black;
+   transition: 0.3s;
+   border-color: rgb(255, 255, 255)
+}
+
+a:active{
+   background-color: #DDDDDD;
+   color: black;
+   transition: 0.3s;
+   border-color: rgb(221, 221, 221)
+}
